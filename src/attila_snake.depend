@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1567556423 source:d:\users\kalma\documents\ideiglenes\attila_snake\main.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"kigyopalya.h"
+	<stdio.h>
+	<SDL_mixer.h>
+	"debugmalloc.h"
+	<windows.h>
+
+1567536321 d:\users\kalma\documents\ideiglenes\attila_snake\kigyopalya.h
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+
+1567545532 source:d:\users\kalma\documents\ideiglenes\attila_snake\kigyopalya.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<stdio.h>
+	"kigyopalya.h"
+	<SDL_mixer.h>
+	"debugmalloc.h"
+
+1508776368 c:\program files (x86)\codeblocks\mingw\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925812 c:\program files (x86)\codeblocks\mingw\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519925812 c:\program files (x86)\codeblocks\mingw\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1519925812 c:\program files (x86)\codeblocks\mingw\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519925812 c:\program files (x86)\codeblocks\mingw\include\sdl2\begin_code.h
+
+1519925812 c:\program files (x86)\codeblocks\mingw\include\sdl2\close_code.h
+
+1519925812 c:\program files (x86)\codeblocks\mingw\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925812 c:\program files (x86)\codeblocks\mingw\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925812 c:\program files (x86)\codeblocks\mingw\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925812 c:\program files (x86)\codeblocks\mingw\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519925812 c:\program files (x86)\codeblocks\mingw\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925812 c:\program files (x86)\codeblocks\mingw\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519925812 c:\program files (x86)\codeblocks\mingw\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1519925812 c:\program files (x86)\codeblocks\mingw\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1567487771 d:\users\kalma\documents\ideiglenes\attila_snake\debugmalloc.h
+	<stdbool.h>
+	"debugmalloc-impl.h"
+
+1567487769 d:\users\kalma\documents\ideiglenes\attila_snake\debugmalloc-impl.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
